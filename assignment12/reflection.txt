@@ -1,0 +1,11 @@
+cat > assignment12/reflection.txt << 'EOF'
+Static visualizations (like Matplotlib charts) are great for reports and quick snapshots because they are simple, fast, and easy to share as images. 
+Interactive visualizations (like Plotly) let you explore the data by hovering, zooming, filtering, and turning categories on/off, which helps you notice 
+patterns and outliers that might be missed in a static chart.
+
+Dashboards are useful for real-time data exploration because they combine controls (dropdowns, sliders, filters) with charts that update immediately.
+This makes it easier to answer questions quickly, compare scenarios, and drill into details without rewriting code or creating multiple versions of the same chart.
+
+Tools like Plotly and Dash improve communication in professional settings by making data easier to understand and interact with.
+Stakeholders can explore trends themselves, focus on what matters to them, and get insights faster, which supports better decisions and clearer alignment across teams.
+EOF
