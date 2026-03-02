@@ -1,2 +1,2 @@
-Render URL:
-GitHub Repo URL:
+Render URL: https://python-assignment12-unbj.onrender.com
+GitHub Repo URL: https://github.com/cah0214/python-assignment12
